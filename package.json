@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@types/node": "^18.11.10",
+    "puppeteer": "^19.3.0",
+    "ts-node": "^10.9.1"
+  },
+  "name": "thinkpad-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
