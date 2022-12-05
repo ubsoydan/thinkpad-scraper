@@ -2,6 +2,8 @@
   "dependencies": {
     "@types/node": "^18.11.10",
     "puppeteer": "^19.3.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
     "ts-node": "^10.9.1"
   },
   "name": "thinkpad-scraper",
